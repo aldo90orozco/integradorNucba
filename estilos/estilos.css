@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.contenedor {
+
+    background-color: blueviolet;
+    padding: 10px;
+    margin: 0;
+    height: 100px;
+    width: 100%;
+    border: solid black;
+}
+
+.contenedor h1{
+
+    text-align: center;
+}
+.contenedor h2{
+
+    text-align: center;
+}
+
+.contenedor__navbar {
+
+    background-color: cadetblue;
+    padding: 30px;
+    margin-top: 5px;
+    height: 150 px;
+    width: 100%;
+    border: solid black;
+    
+
+}
+
+.contenedor__navbar ul li a {
+
+    text-decoration: none;
+    background-color: red;
+   
+
+
+}
